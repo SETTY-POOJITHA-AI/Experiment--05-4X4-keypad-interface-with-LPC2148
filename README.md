@@ -287,7 +287,7 @@ void LCD_init()
 
 
 ## Output screen shots :
-```
+
 ### Before simulation:
 
 ![beforesimulation 1](https://user-images.githubusercontent.com/93427581/200156211-368f5f4b-1ed8-418b-83b8-8cd473bfed62.png)
@@ -299,7 +299,7 @@ void LCD_init()
 ### Layout diagram:
 
 ![layout 1](https://user-images.githubusercontent.com/93427581/200156285-e9408fa0-d6db-438a-8fb0-0a7cb4774b1c.jpeg)
-```
+
 ### Result:
 Thus, a 4x4 keypad is interfaced with LPC2148 and is displayed in a 16x2 lcd display.
 
